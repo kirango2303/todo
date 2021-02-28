@@ -1,0 +1,7 @@
+.card {
+    padding: 2rem 4rem;
+    columns: 2;
+    border-style: solid;
+    border-color: palevioletred;
+    background-color: beige;
+}
